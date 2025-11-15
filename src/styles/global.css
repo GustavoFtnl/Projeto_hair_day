@@ -10,7 +10,7 @@
 }
 
 ::-webkit-scrollbar {
-  width: 0.3 rem;
+  width: 0.3rem;
 }
 
 ::-webkit-scrollbar-track {
@@ -18,12 +18,12 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #b8952e;
+  background:  #b8952e;
 }
 
 body {
-  background-color: #19181b;
-  color: #f5f4f5;
+  background-color:  #19181b;
+  color:  #f5f4f5;
 }
 
 .container {
